@@ -1,3 +1,5 @@
+__author__ = 'Boris Polyanskiy'
+
 from random import choice
 
 import RPi.GPIO as GPIO

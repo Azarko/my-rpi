@@ -1,3 +1,7 @@
+# !/usr/bin/env python3
+
+__author__ = 'Boris Polyanskiy'
+
 from time import sleep
 
 import RPi.GPIO as GPIO
